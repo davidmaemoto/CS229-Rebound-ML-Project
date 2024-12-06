@@ -1,0 +1,91 @@
+Player Name,Player Team,Opposing Team,Rebounds Line,Over Odds,Under Odds,Home/Away
+Goga Bitadze,ORL,IND,7.5,-167,128,1
+Jalen Suggs,ORL,IND,4.5,-108,-120,1
+Kentavious Caldwell-Pope,ORL,IND,2.5,-152,117,1
+Myles Turner,IND,ORL,8.5,107,-139,0
+Bennedict Mathurin,IND,ORL,5.5,-152,117,0
+Pascal Siakam,IND,ORL,7.5,112,-145,0
+Tyrese Haliburton,IND,ORL,4.5,115,-149,0
+Franz Wagner,ORL,IND,5.5,-147,113,1
+Moe Wagner,ORL,IND,5.5,-110,-118,1
+Anthony Black,ORL,IND,2.5,-185,140,1
+Jaylen Brown,BOS,BKN,5.5,-135,105,0
+Nicolas Claxton,BKN,BOS,9.5,-147,113,1
+Derrick White,BOS,BKN,4.5,100,-130,0
+Cam Thomas,BKN,BOS,3.5,106,-137,1
+Dorian Finney-Smith,BKN,BOS,4.5,112,-145,1
+Cameron Johnson,BKN,BOS,3.5,-156,120,1
+Dennis Schroder,BKN,BOS,2.5,-156,120,1
+Jrue Holiday,BOS,BKN,4.5,-105,-123,0
+Neemias Queta,BOS,BKN,7.5,-128,-101,0
+Sam Hauser,BOS,BKN,3.5,112,-145,0
+Payton Pritchard,BOS,BKN,2.5,-147,113,0
+Jayson Tatum,BOS,BKN,8.5,112,-145,0
+Coby White,CHI,NYK,3.5,-101,-128,0
+Patrick Williams,CHI,NYK,4.5,-114,-114,0
+Zach LaVine,CHI,NYK,4.5,118,-154,0
+Nikola Vucevic,CHI,NYK,9.5,-102,-127,0
+Jalen Brunson,NYK,CHI,3.5,-114,-114,1
+Josh Hart,NYK,CHI,10.5,112,-145,1
+OG Anunoby,NYK,CHI,5.5,120,-156,1
+Josh Giddey,CHI,NYK,5.5,-149,115,0
+Mikal Bridges,NYK,CHI,4.5,109,-141,1
+Karl-Anthony Towns,NYK,CHI,11.5,-102,-127,1
+Ayo Dosunmu,CHI,NYK,3.5,126,-164,0
+Jarrett Allen,CLE,PHI,10.5,-115,-112,0
+Darius Garland,CLE,PHI,2.5,-115,-112,0
+Donovan Mitchell,CLE,PHI,4.5,106,-137,0
+Evan Mobley,CLE,PHI,10.5,107,-139,0
+Kelly Oubre Jr.,PHI,CLE,5.5,106,-137,1
+Kyle Lowry,PHI,CLE,2.5,-164,125,1
+Caleb Martin,PHI,CLE,4.5,-145,112,1
+Jared McCain,PHI,CLE,4.5,120,-156,1
+Andre Drummond,PHI,CLE,11.5,106,-137,1
+Luguentz Dort,OKC,NOP,4.5,110,-143,1
+Shai Gilgeous-Alexander,OKC,NOP,6.5,122,-159,1
+Brandon Ingram,NOP,OKC,5.5,-135,105,0
+Trey Murphy III,NOP,OKC,4.5,-147,114,0
+Jalen Williams,OKC,NOP,6.5,-105,-123,1
+Yves Missi,NOP,OKC,6.5,-101,-128,0
+B.J. Boston Jr.,NOP,OKC,5.5,109,-141,0
+Tobias Harris,DET,MIL,7.5,104,-135,0
+Cade Cunningham,DET,MIL,6.5,113,-147,0
+Giannis Antetokounmpo,MIL,DET,11.5,-103,-125,1
+Brook Lopez,MIL,DET,4.5,-135,105,1
+Taurean Prince,MIL,DET,3.5,-147,113,1
+Jalen Duren,DET,MIL,10.5,-115,-112,0
+Malik Beasley,DET,MIL,2.5,-175,134,0
+Ivica Zubac,LAC,HOU,11.5,-120,-108,0
+Jalen Green,HOU,LAC,4.5,107,-139,1
+Terance Mann,LAC,HOU,3.5,126,-164,0
+Norman Powell,LAC,HOU,2.5,-141,108,0
+Dillon Brooks,HOU,LAC,2.5,-139,107,1
+Jabari Smith Jr.,HOU,LAC,5.5,-137,106,1
+James Harden,LAC,HOU,6.5,105,-135,0
+Fred VanVleet,HOU,LAC,2.5,-169,130,1
+Derrick Jones,LAC,HOU,2.5,-185,141,0
+Alperen Sengun,HOU,LAC,10.5,-104,-123,1
+Amir Coffey,LAC,HOU,2.5,-103,-125,0
+Kevin Porter Jr.,LAC,HOU,2.5,100,-130,0
+Corey Kispert,WAS,SAS,2.5,-175,135,0
+Kyle Kuzma,WAS,SAS,5.5,-132,102,0
+Victor Wembanyama,SAS,WAS,12.5,100,-130,1
+Jordan Poole,WAS,SAS,3.5,128,-167,0
+Bilal Coulibaly,WAS,SAS,5.5,115,-149,0
+Stephon Castle,SAS,WAS,3.5,-128,-101,1
+Kyshawn George,WAS,SAS,3.5,-133,103,0
+Alex Sarr,WAS,SAS,6.5,-109,-119,0
+Jonas Valanciunas,WAS,SAS,7.5,112,-145,0
+Julian Champagnie,SAS,WAS,4.5,-116,-111,1
+Keldon Johnson,SAS,WAS,5.5,-122,-106,1
+Chris Paul,SAS,WAS,3.5,-167,128,1
+Harrison Barnes,SAS,WAS,3.5,-130,100,1
+LeBron James,LAL,MEM,7.5,-106,-122,1
+Austin Reaves,LAL,MEM,4.5,120,-156,1
+Jaren Jackson Jr.,MEM,LAL,5.5,-143,110,0
+Santi Aldama,MEM,LAL,6.5,-130,100,0
+Anthony Davis,LAL,MEM,12.5,107,-139,1
+Cam Reddish,LAL,MEM,2.5,-141,109,1
+Scotty Pippen Jr.,MEM,LAL,3.5,-109,-119,0
+Dalton Knecht,LAL,MEM,2.5,-102,-127,1
+Marcus Smart,MEM,LAL,2.5,113,-147,0
